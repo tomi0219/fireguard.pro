@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1047895517233",
+    "firebase_url": "https://fireguardpro-ba880-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fireguardpro-ba880",
+    "storage_bucket": "fireguardpro-ba880.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047895517233:android:8d5890ce5603ce1cd90d10",
+        "android_client_info": {
+          "package_name": "fireguard.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047895517233-mnbq1rbsfc4lrkc8mp5mk3bibrv2dur1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvY9lxmvA3mNPm3SsRbUuSdx67D7bv5rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047895517233-mnbq1rbsfc4lrkc8mp5mk3bibrv2dur1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1047895517233-tguqoksdq1ijf1ni3ga655ghudhrn19m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireguardPro"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047895517233:android:b8cec0e42f51a228d90d10",
+        "android_client_info": {
+          "package_name": "com.fireguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047895517233-mnbq1rbsfc4lrkc8mp5mk3bibrv2dur1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvY9lxmvA3mNPm3SsRbUuSdx67D7bv5rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047895517233-mnbq1rbsfc4lrkc8mp5mk3bibrv2dur1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1047895517233-tguqoksdq1ijf1ni3ga655ghudhrn19m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireguardPro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
